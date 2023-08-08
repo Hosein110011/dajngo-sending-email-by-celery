@@ -136,7 +136,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = '********@example.com'
 EMAIL_HOST_PASSWORD = "*************"
-DEFAULT_FROM_EMAIL = 'Celery <immortalhosein110011@gmail.com>'
+DEFAULT_FROM_EMAIL = 'Celery <*******@example.com>'
 
 
 
